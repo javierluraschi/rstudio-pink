@@ -1,5 +1,3 @@
-/* rs-theme-name: Pink */
-/* rs-theme-is-dark: FALSE */
 .ace_gutter {
   background: #ffbffd;
   color: #333
