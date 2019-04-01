@@ -1,15 +1,19 @@
 /* rs-theme-name: Lisa Frank */
 /* rs-theme-is-dark: FALSE */
+
 .ace_gutter {
   background: #ffbffd;
   color: #333
 }
+
 .ace_content {
   background: #ffe2f6;
 }
+
 .rstudio-themes-default {
   background: #fbf0fa;
 }
+
 .ace_selection {
   background: #d79bd8;
 }
