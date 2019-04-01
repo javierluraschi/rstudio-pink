@@ -7,3 +7,10 @@
 .ace_content {
   background: #ffe2f6;
 }
+.rstudio-themes-default {
+  background: #fbf0fa;
+}
+.ace_selection.{
+  background: #d79bd8;
+}
+ 
