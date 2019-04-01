@@ -10,7 +10,7 @@
 .rstudio-themes-default {
   background: #fbf0fa;
 }
-.ace_selection.{
+.ace_selection {
   background: #d79bd8;
 }
  
